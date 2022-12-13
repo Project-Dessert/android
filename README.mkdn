@@ -10,10 +10,20 @@ To initialize your local repository using the dessert trees, use a command like 
 ```
 repo init -u https://github.com/Project-Dessert/android.git -b snowcone
 ```
+If you want to save your disk's space you can use the following command:
+```
+repo init --depth=1 -u https://github.com/Project-Dessert/android.git -b snowcone
+```
 Then to sync up:
 ```
 repo sync
 ```
+If you want to save some time, try to add these flags
+```
+repo sync -c -d -j$(nproc --all) --no-tags --no-clone-bundle --force-sync  --optimized-fetch --prune --current-branch
+```
+For further information of these flags you can read [this](https://github.com/AICP/platform_manifest/#initializing-repository)
+
 Please see the [LineageOS Wiki](https://wiki.lineageos.org/) for building instructions, by device.
 
 Credits:
