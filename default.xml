@@ -10,7 +10,7 @@
            revision="snowcone" />
 
   <remote name="MindTheGapps"
-           fetch="https://gitlab.com/MindTheGapps/"
+           fetch="https://gitlab.com/MindTheGapps"
            revision="sigma" />
 
   <remote name="legacy"
@@ -32,6 +32,10 @@
   <remote name="ng"
            fetch="https://github.com/droid-ng"
            revision="ng-v2" />
+
+    <remote name="halogen"
+           fetch="https://git.halogenos.org/halogenOS"
+           revision="XOS-12.1" />
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
