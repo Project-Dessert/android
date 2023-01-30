@@ -29,4 +29,7 @@
 
   <!-- MindTheGapps -->
   <project name="vendor_gapps" path="vendor/gapps" remote="MindTheGapps" />
+
+  <!-- MicroG -->
+  <project name="lineageos4microg/android_vendor_partner_gms" path="vendor/partner_gms" remote="github" revision="master" />
 </manifest>
