@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remove-project name="LineageOS/android" />
+  <remove-project name="platform/art" />
+
+  <remove-project name="LineageOS/android_build" />
+  <remove-project name="LineageOS/android_build_soong" />
+
+  <remove-project name="LineageOS/android_bionic" />
+
+  <remove-project name="platform/external/jemalloc_new" />
+
+  <remove-project name="LineageOS/android_packages_apps_LineageParts" />
+  <remove-project name="LineageOS/android_packages_apps_Settings" />
+  <remove-project name="LineageOS/android_packages_apps_Trebuchet" />
+
+  <remove-project name="LineageOS/android_frameworks_base" />
+  <remove-project name="LineageOS/android_frameworks_native" />
+
+  <remove-project name="LineageOS/android_system_update_engine" />
+
+  <remove-project name="LineageOS/android_vendor_lineage" />
+
+  <!-- legacy support -->
+  <remove-project name="platform/frameworks/libs/net" />
+
+  <remove-project name="LineageOS/android_hardware_qcom_wlan" />
+
+  <remove-project name="LineageOS/android_packages_modules_adb" />
+  <remove-project name="platform/packages/modules/NetworkStack" />
+
+  <remove-project name="platform/system/bpf" />
+  <remove-project name="LineageOS/android_system_core" />
+  <remove-project name="platform/system/netd" />
+
+  <remove-project name="LineageOS/charter" />
+  <remove-project name="LineageOS/cm_crowdin" />
+  <remove-project name="LineageOS/hudson" />
+  <remove-project name="LineageOS/mirror" />
+  <remove-project name="LineageOS/www" />
+  <remove-project name="LineageOS/lineage_wiki" />
+  <remove-project name="LineageOS/contributors-cloud-generator" />
+</manifest>
