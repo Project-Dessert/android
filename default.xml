@@ -17,6 +17,11 @@
            fetch="https://github.com/droid-legacy"
            revision="12.1" />
 
+  <remote name="lmodroid"
+           fetch="https://github.com/LMODroid"
+           revision="thirteen"
+           review="gerrit.libremobileos.com" />
+
   <remote  name="private"
            fetch="ssh://git@github.com" />
 
