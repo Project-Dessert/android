@@ -17,22 +17,6 @@
            fetch="https://github.com/droid-legacy"
            revision="12.1" />
 
-  <remote  name="crdroid"
-           fetch="https://github.com/crdroidandroid"
-           sync-c="true"
-           sync-j="4"
-           revision="refs/heads/12.1" />
-
-  <remote  name="crdroid-gitlab"
-           fetch="https://gitlab.com/crdroidandroid"
-           sync-c="true"
-           sync-j="4"
-           revision="refs/heads/12.1" />
-
-  <remote name="ng"
-           fetch="https://github.com/droid-ng"
-           revision="ng-v2" />
-
   <remote  name="private"
            fetch="ssh://git@github.com" />
 

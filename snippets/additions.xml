@@ -19,10 +19,6 @@
   <project name="LineageOS-UL/android_system_core" path="system/core" groups="pdk" />
   <project name="LineageOS-UL/android_external_perfetto" path="external/perfetto" groups="pdk" />
 
-  <!-- Face Unlock -->
-  <!-- <project path="external/faceunlock" name="android_external_faceunlock" remote="crdroid-gitlab" />
-  <project path="packages/apps/FaceUnlockService" name="android_packages_apps_FaceUnlockService" remote="crdroid" /> -->
-
   <!-- MindTheGapps -->
   <project name="vendor_gapps" path="vendor/gapps" remote="MindTheGapps" />
 
