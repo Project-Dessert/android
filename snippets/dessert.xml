@@ -22,6 +22,7 @@
   <project name="android_frameworks_base" path="frameworks/base" remote="dessert" groups="pdk-cw-fs,pdk-fs" />
   <project name="android_frameworks_native" path="frameworks/native" remote="dessert" groups="pdk" />
   <project name="android_packages_apps_Settings" path="packages/apps/Settings" remote="dessert" groups="pdk-fs" />
+  <project name="android_system_core" path="system/core" remote="dessert" groups="pdk" />
   <project name="android_lineage-sdk" path="lineage-sdk" remote="dessert" />
   <project name="android_vendor_lineage" path="vendor/lineage" remote="dessert" />
 
