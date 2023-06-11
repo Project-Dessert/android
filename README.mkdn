@@ -8,11 +8,11 @@ To get started with Android/Project Dessert, you'll need to get familiar with [S
 
 To initialize your local repository using the dessert trees, use a command like this:
 ```
-repo init -u https://github.com/Project-Dessert/android.git -b snowcone
+repo init -u https://github.com/Project-Dessert/android.git -b snowcone --git-lfs
 ```
 If you want to save your disk's space you can use the following command:
 ```
-repo init --depth=1 -u https://github.com/Project-Dessert/android.git -b snowcone
+repo init --depth=1 -u https://github.com/Project-Dessert/android.git -b snowcone --git-lfs
 ```
 Then to sync up:
 ```
