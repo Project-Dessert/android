@@ -18,6 +18,8 @@
 
   <project path="bionic" name="crdroidandroid/android_bionic" groups="pdk" revision="13.0" />
 
+  <project path="device/lineage/sepolicy" name="android_device_lineage_sepolicy" remote="dessert" />
+
   <project path="external/arm-optimized-routines" name="crdroidandroid/android_external_arm-optimized-routines" groups="pdk" revision="13.0" />
   <project path="external/fastrpc" name="crdroidandroid/android_external_fastrpc" groups="pdk" revision="13.0" />
   <project path="external/freetype" name="crdroidandroid/android_external_freetype" groups="pdk" revision="13.0" />

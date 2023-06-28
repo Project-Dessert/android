@@ -8,6 +8,8 @@
 
   <remove-project name="LineageOS/android_bionic" />
 
+  <remove-project name="LineageOS/android_device_lineage_sepolicy" />
+
   <remove-project name="platform/external/arm-optimized-routines" />
   <remove-project name="platform/external/fastrpc" />
   <remove-project name="platform/external/freetype" />
