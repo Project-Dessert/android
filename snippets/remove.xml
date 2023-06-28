@@ -8,7 +8,20 @@
 
   <remove-project name="LineageOS/android_bionic" />
 
+  <remove-project name="platform/external/arm-optimized-routines" />
+  <remove-project name="platform/external/fastrpc" />
+  <remove-project name="platform/external/freetype" />
+  <remove-project name="platform/external/giflib" />
+  <remove-project name="platform/external/harfbuzz_ng" />
   <remove-project name="platform/external/jemalloc_new" />
+  <remove-project name="platform/external/libhevc" />
+  <remove-project name="platform/external/libjpeg-turbo" />
+  <remove-project name="platform/external/libpng" />
+  <remove-project name="platform/external/libvpx" />
+  <remove-project name="platform/external/selinux" />
+  <remove-project name="LineageOS/android_external_setupcompat" />
+  <remove-project name="platform/external/sqlite" />
+  <remove-project name="platform/external/vixl" />
 
   <remove-project name="LineageOS/android_packages_apps_LineageParts" />
   <remove-project name="LineageOS/android_packages_apps_Settings" />
