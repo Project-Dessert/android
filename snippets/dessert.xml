@@ -40,6 +40,7 @@
   <project path="frameworks/base" name="android_frameworks_base" groups="pdk-cw-fs,pdk-fs" remote="dessert" />
   <project path="frameworks/native" name="android_frameworks_native" groups="pdk" remote="dessert" />
 
+  <project path="packages/apps/Jelly" name="android_packages_apps_Jelly" remote="dessert" />
   <project path="packages/apps/LineageParts" name="android_packages_apps_LineageParts" remote="dessert" />
   <project path="packages/apps/FaceUnlock" name="LMODroid/platform_packages_apps_FaceUnlock" revision="thirteen" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" groups="pdk-fs" remote="dessert" />
