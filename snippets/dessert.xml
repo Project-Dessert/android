@@ -16,7 +16,7 @@
   <project path="android" name="android" remote="dessert" />
   <project path="art" name="crdroidandroid/android_art" groups="pdk" revision="13.0" />
 
-  <project path="bionic" name="crdroidandroid/android_bionic" groups="pdk" revision="13.0" />
+  <project path="bionic" name="android_bionic" groups="pdk" remote="dessert" />
 
   <project path="device/lineage/sepolicy" name="android_device_lineage_sepolicy" remote="dessert" />
 
