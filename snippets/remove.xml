@@ -45,6 +45,7 @@
 
   <remove-project name="LineageOS/android_packages_modules_adb" />
   <remove-project name="platform/packages/modules/NetworkStack" />
+  <remove-project name="LineageOS/android_packages_modules_Connectivity"/>
 
   <remove-project name="platform/system/bpf" />
   <remove-project name="LineageOS/android_system_core" />
