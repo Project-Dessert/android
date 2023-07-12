@@ -16,19 +16,6 @@
            review="android-review.googlesource.com"
            revision="refs/tags/android-13.0.0_r61" />
 
-  <remote  name="dessert"
-           fetch="https://github.com/Project-Dessert"
-           revision="tiramisu"
-           review="review.lineageos.org" />
-
-  <remote  name="droid"
-           fetch="https://github.com/droid-legacy"
-           revision="lineage-20.0" />
-
-  <remote  name="legacy"
-           fetch="https://github.com/LineageOS-UL"
-           revision="lineage-20.0" />
-
   <default revision="refs/heads/lineage-20.0"
            remote="github"
            sync-c="true"
