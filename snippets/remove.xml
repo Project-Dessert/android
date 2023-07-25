@@ -49,7 +49,7 @@
 
   <remove-project name="platform/system/bpf" />
   <remove-project name="LineageOS/android_system_core" />
-  <remove-project name="platform/system/netd" />
+  <remove-project name="LineageOS/android_system_netd" />
 
   <remove-project name="LineageOS/charter" />
   <remove-project name="LineageOS/cm_crowdin" />
