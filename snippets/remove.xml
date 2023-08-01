@@ -41,6 +41,8 @@
   <!-- legacy support -->
   <remove-project name="platform/frameworks/libs/net" />
 
+  <remove-project name="LineageOS/android_hardware_qcom_wlan" />
+
   <remove-project name="LineageOS/android_packages_modules_adb" />
   <remove-project name="platform/packages/modules/NetworkStack" />
   <remove-project name="LineageOS/android_packages_modules_Connectivity"/>
