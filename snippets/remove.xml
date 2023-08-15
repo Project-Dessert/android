@@ -34,6 +34,7 @@
   <remove-project name="LineageOS/android_frameworks_base" />
   <remove-project name="LineageOS/android_frameworks_native" />
 
+  <remove-project name="LineageOS/android_system_sepolicy" />
   <remove-project name="LineageOS/android_system_update_engine" />
 
   <remove-project name="LineageOS/android_vendor_lineage" />
