@@ -60,6 +60,7 @@
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" groups="pdk-fs" remote="dessert" />
   <project path="packages/apps/Trebuchet" name="android_packages_apps_Trebuchet" remote="dessert" />
 
+  <project path="system/core" name="android_system_core" groups="pdk" remote="dessert" />
   <project path="system/sepolicy" name="android_system_sepolicy" groups="pdk" remote="dessert" />
   <project path="system/update_engine" name="crdroidandroid/android_system_update_engine" groups="pdk" revision="13.0" />
 
@@ -79,7 +80,6 @@
   <project path="packages/modules/Connectivity" name="android_packages_modules_Connectivity" groups="pdk-cw-fs,pdk-fs" remote="legacy" />
 
   <project path="system/bpf" name="android_system_bpf" groups="pdk" remote="legacy" />
-  <project path="system/core" name="droid-legacy/android_system_core" groups="pdk" />
   <project path="system/netd" name="android_system_netd" groups="pdk" remote="legacy" />
   <project path="system/tools/dtbtool" name="LineageOS/android_system_tools_dtbtool" revision="lineage-18.1" />
 </manifest>
